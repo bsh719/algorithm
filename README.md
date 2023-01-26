@@ -1,4 +1,4 @@
-# algorithms
+# algorithm
 C++ 코드 저장소
 
 백준 ID: serendip2021
