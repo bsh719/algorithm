@@ -7,5 +7,5 @@ int main() {
   
   int N; cin>>N;
   cout<<N*10;
-  cout<<"hello, world!";
+  cout<<"hello, world!"; 
 }
