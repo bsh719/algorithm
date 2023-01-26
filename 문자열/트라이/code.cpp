@@ -16,6 +16,6 @@ int main() {
 			if (trie[now][t] == 0) trie[now][t] = ++last;
 			now = trie[now][t];
 		}
-    	cnt[now]++;
+		cnt[now]++;
 	}
 }
