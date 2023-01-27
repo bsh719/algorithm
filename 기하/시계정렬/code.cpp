@@ -2,8 +2,6 @@
 #include <algorithm>
 using namespace std;
 
-# sort(Pr, Pr + N, cmp)로 정렬
-
 bool cmp(int i, int j) {
 	int n1, n2;
 	if (X[i] >= 0 && Y[i] >= 0) n1 = 1;
