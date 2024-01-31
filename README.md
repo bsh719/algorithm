@@ -6,7 +6,7 @@ https://www.acmicpc.net/user/serendip2021
 
 
 
-일부 코드 가져온 곳:
+\n일부 코드 가져온 곳:
 
     https://blog.naver.com/kks227/221635322468,
     
